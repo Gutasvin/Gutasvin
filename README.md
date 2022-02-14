@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/Gutasvin">
-  <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=Gutasvin&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutasvin&layout=compact&langs_count=7&theme=blue"/>
+  <img align="left" width="470px" src="https://github-readme-stats.vercel.app/api?username=Gutasvin&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img align="left" width="470px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutasvin&layout=compact&langs_count=7&theme=blue"/>
 </div>
   
 <div style="display: inline_block"><br>
