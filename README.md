@@ -7,11 +7,8 @@
 - 😄 Gosto muito de passar meu tempo livre em games!
 - ⚡ Procuro sempre manter o foco para melhorar o rendimento e consequentemente entregar de maneira eficiente!
 
-<div align="center">
-  <a href="https://github.com/Gutasvin">
-  <img align="left" width="470px" src="https://github-readme-stats.vercel.app/api?username=Gutasvin&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img align="left" width="470px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutasvin&layout=compact&langs_count=7&theme=blue"/>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gutasvin&theme=dark&layout=compact)
+<img align="left" width="450px" alt="Gutasvin stats" src="https://github-readme-stats.vercel.app/api?username=Gutasvin&theme=dark&show_icons=false&hide_border=true" />
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
