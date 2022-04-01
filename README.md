@@ -4,7 +4,7 @@
 - 🌱 Introduzido na empresa Piql!
 - 🤔 Sou um profissional muito dedicado e sempre disposto a aprender!
 - 📫 Sou residente de criciuma em SC!
-- 😄 Gosto muito de passar meu tempo livre em games!
+- 😄 Gosto muito de passar meu tempo livre em games ou estudando!
 - ⚡ Procuro sempre manter o foco para melhorar o rendimento e consequentemente entregar de maneira eficiente!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gutasvin&theme=tokyonight&layout=compact)
